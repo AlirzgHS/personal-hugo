@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/AlirzgHS/personal-hugo.git'
+relativeURLs = true
+languageCode = 'ar'
+title = 'صفحتي الشخصية'
